@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\Desktop\\GRADPROJECT\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8697B5-0699-4A9F-BD21-05BCC88FDFC7}|QSIT_TypeOptimizer.csproj|c:\\users\\ahmed\\desktop\\gradproject\\qsit_typeoptimizer\\qsit_typeoptimizer\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8697B5-0699-4A9F-BD21-05BCC88FDFC7}|QSIT_TypeOptimizer.csproj|solutionrelative:app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8697B5-0699-4A9F-BD21-05BCC88FDFC7}|QSIT_TypeOptimizer.csproj|C:\\Users\\Ahmed\\Desktop\\GRADPROJECT\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer\\qsittypeoptimizercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8697B5-0699-4A9F-BD21-05BCC88FDFC7}|QSIT_TypeOptimizer.csproj|solutionrelative:qsittypeoptimizercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8697B5-0699-4A9F-BD21-05BCC88FDFC7}|QSIT_TypeOptimizer.csproj|C:\\Users\\Ahmed\\Desktop\\GRADPROJECT\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8697B5-0699-4A9F-BD21-05BCC88FDFC7}|QSIT_TypeOptimizer.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8697B5-0699-4A9F-BD21-05BCC88FDFC7}|QSIT_TypeOptimizer.csproj|c:\\users\\ahmed\\desktop\\gradproject\\qsit_typeoptimizer\\qsit_typeoptimizer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A8697B5-0699-4A9F-BD21-05BCC88FDFC7}|QSIT_TypeOptimizer.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8697B5-0699-4A9F-BD21-05BCC88FDFC7}|QSIT_TypeOptimizer.csproj|c:\\users\\ahmed\\desktop\\gradproject\\qsit_typeoptimizer\\qsit_typeoptimizer\\qsit_typeoptimizer.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8A8697B5-0699-4A9F-BD21-05BCC88FDFC7}|QSIT_TypeOptimizer.csproj|solutionrelative:qsit_typeoptimizer.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8697B5-0699-4A9F-BD21-05BCC88FDFC7}|QSIT_TypeOptimizer.csproj|c:\\users\\ahmed\\desktop\\gradproject\\qsit_typeoptimizer\\qsit_typeoptimizer\\documentoperationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8697B5-0699-4A9F-BD21-05BCC88FDFC7}|QSIT_TypeOptimizer.csproj|solutionrelative:documentoperationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8697B5-0699-4A9F-BD21-05BCC88FDFC7}|QSIT_TypeOptimizer.csproj|c:\\users\\ahmed\\desktop\\gradproject\\qsit_typeoptimizer\\qsit_typeoptimizer\\placeelementeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8697B5-0699-4A9F-BD21-05BCC88FDFC7}|QSIT_TypeOptimizer.csproj|solutionrelative:placeelementeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8697B5-0699-4A9F-BD21-05BCC88FDFC7}|QSIT_TypeOptimizer.csproj|c:\\users\\ahmed\\desktop\\gradproject\\qsit_typeoptimizer\\qsit_typeoptimizer\\documentreadeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8697B5-0699-4A9F-BD21-05BCC88FDFC7}|QSIT_TypeOptimizer.csproj|solutionrelative:documentreadeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\GRADPROJECT\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer\\App.cs",
+              "RelativeDocumentMoniker": "App.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\GRADPROJECT\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer\\App.cs",
+              "RelativeToolTip": "App.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:47:45.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QSIT_TypeOptimizer.addin",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\GRADPROJECT\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer.addin",
+              "RelativeDocumentMoniker": "QSIT_TypeOptimizer.addin",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\GRADPROJECT\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer.addin",
+              "RelativeToolTip": "QSIT_TypeOptimizer.addin",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
+              "WhenOpened": "2025-05-26T21:43:13.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DocumentReadEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\GRADPROJECT\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer\\DocumentReadEventHandler.cs",
+              "RelativeDocumentMoniker": "DocumentReadEventHandler.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\GRADPROJECT\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer\\DocumentReadEventHandler.cs",
+              "RelativeToolTip": "DocumentReadEventHandler.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAIBAwJ0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:48:40.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocumentOperationEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\GRADPROJECT\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer\\DocumentOperationEventHandler.cs",
+              "RelativeDocumentMoniker": "DocumentOperationEventHandler.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\GRADPROJECT\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer\\DocumentOperationEventHandler.cs",
+              "RelativeToolTip": "DocumentOperationEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:46:55.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlaceElementEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\GRADPROJECT\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer\\PlaceElementEventHandler.cs",
+              "RelativeDocumentMoniker": "PlaceElementEventHandler.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\GRADPROJECT\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer\\PlaceElementEventHandler.cs",
+              "RelativeToolTip": "PlaceElementEventHandler.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAiwGoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:26:22.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\GRADPROJECT\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\GRADPROJECT\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:27:14.016Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\GRADPROJECT\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\GRADPROJECT\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAFkCAAAAAAAAAAA0wHkCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:41:39.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QSITTypeOptimizerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\GRADPROJECT\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer\\QSITTypeOptimizerCommand.cs",
+              "RelativeDocumentMoniker": "QSITTypeOptimizerCommand.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\GRADPROJECT\\QSIT_TypeOptimizer\\QSIT_TypeOptimizer\\QSITTypeOptimizerCommand.cs",
+              "RelativeToolTip": "QSITTypeOptimizerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:34:23.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

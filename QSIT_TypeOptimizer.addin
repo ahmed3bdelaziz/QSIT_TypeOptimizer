@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<!-- Display name shown in Revit’s Add-ins panel -->
+		<Name>QSIT Type Optimizer App</Name>
+
+		<!-- Path to your compiled DLL -->
+		<Assembly>QSIT_TypeOptimizer.dll</Assembly>
+
+		<!-- Unique GUID for your add-in -->
+		<AddInId>C09ED8B2-0F23-4C63-A2A8-8B8DF27954B3</AddInId>
+		
+		<!-- Points to the startup class that implements IExternalApplication -->
+		<FullClassName>QSIT_TypeOptimizer.App</FullClassName>
+
+		<!-- Shown as a tooltip/label in some UIs -->
+		<Text>QSIT Type Optimizer</Text>
+
+		<!-- Brief description in Revit’s Add-ins window -->
+		<Description>
+			Provides a custom ribbon button for bulk-optimizing Revit family types,
+			streamlining deletion, duplication, renaming, and comment management.
+		</Description>
+
+		<!-- Your company or team identifier -->
+		<VendorId>Arab Contractors</VendorId>
+
+		<!-- More detailed vendor info displayed in Revit -->
+		<VendorDescription>
+			BIM Development Group – Architectural Visualization And Automation Team
+		</VendorDescription>
+	</AddIn>
+</RevitAddIns>

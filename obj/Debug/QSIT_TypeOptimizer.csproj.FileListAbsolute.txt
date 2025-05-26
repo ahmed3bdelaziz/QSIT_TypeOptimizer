@@ -1,0 +1,27 @@
+D:\GIZ GRAD PROJECTS\Bim Dvelopment\QSIT_TypeOptimizer\QSIT_TypeOptimizer\obj\Debug\QSIT_TypeOptimizer.csproj.AssemblyReference.cache
+D:\GIZ GRAD PROJECTS\Bim Dvelopment\QSIT_TypeOptimizer\QSIT_TypeOptimizer\obj\Debug\QSIT_TypeOptimizer.MainForm.resources
+D:\GIZ GRAD PROJECTS\Bim Dvelopment\QSIT_TypeOptimizer\QSIT_TypeOptimizer\obj\Debug\QSIT_TypeOptimizer.csproj.GenerateResource.cache
+D:\GIZ GRAD PROJECTS\Bim Dvelopment\QSIT_TypeOptimizer\QSIT_TypeOptimizer\obj\Debug\QSIT_TypeOptimizer.csproj.CoreCompileInputs.cache
+D:\GIZ GRAD PROJECTS\Bim Dvelopment\QSIT_TypeOptimizer\QSIT_TypeOptimizer\bin\Debug\QSIT_TypeOptimizer.dll
+D:\GIZ GRAD PROJECTS\Bim Dvelopment\QSIT_TypeOptimizer\QSIT_TypeOptimizer\bin\Debug\QSIT_TypeOptimizer.pdb
+D:\GIZ GRAD PROJECTS\Bim Dvelopment\QSIT_TypeOptimizer\QSIT_TypeOptimizer\obj\Debug\QSIT_TypeOptimizer.dll
+D:\GIZ GRAD PROJECTS\Bim Dvelopment\QSIT_TypeOptimizer\QSIT_TypeOptimizer\obj\Debug\QSIT_TypeOptimizer.pdb
+C:\Users\Ahmed\Desktop\QSIT_TypeOptimizer\QSIT_TypeOptimizer\bin\Debug\QSIT_TypeOptimizer.dll
+C:\Users\Ahmed\Desktop\QSIT_TypeOptimizer\QSIT_TypeOptimizer\bin\Debug\QSIT_TypeOptimizer.pdb
+C:\Users\Ahmed\Desktop\QSIT_TypeOptimizer\QSIT_TypeOptimizer\obj\Debug\QSIT_TypeOptimizer.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\QSIT_TypeOptimizer\QSIT_TypeOptimizer\obj\Debug\QSIT_TypeOptimizer.MainForm.resources
+C:\Users\Ahmed\Desktop\QSIT_TypeOptimizer\QSIT_TypeOptimizer\obj\Debug\QSIT_TypeOptimizer.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\QSIT_TypeOptimizer\QSIT_TypeOptimizer\obj\Debug\QSIT_TypeOptimizer.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\QSIT_TypeOptimizer\QSIT_TypeOptimizer\obj\Debug\QSIT_TypeOptimizer.dll
+C:\Users\Ahmed\Desktop\QSIT_TypeOptimizer\QSIT_TypeOptimizer\obj\Debug\QSIT_TypeOptimizer.pdb
+C:\Users\Ahmed\Desktop\QSIT_TypeOptimizer\QSIT_TypeOptimizer\bin\Debug\QSIT_TypeOptimizer.addin
+C:\Users\Ahmed\Desktop\GRADPROJECT\QSIT_TypeOptimizer\QSIT_TypeOptimizer\bin\Debug\QSIT_TypeOptimizer.addin
+C:\Users\Ahmed\Desktop\GRADPROJECT\QSIT_TypeOptimizer\QSIT_TypeOptimizer\bin\Debug\QSIT_TypeOptimizer.dll
+C:\Users\Ahmed\Desktop\GRADPROJECT\QSIT_TypeOptimizer\QSIT_TypeOptimizer\bin\Debug\QSIT_TypeOptimizer.pdb
+C:\Users\Ahmed\Desktop\GRADPROJECT\QSIT_TypeOptimizer\QSIT_TypeOptimizer\obj\Debug\QSIT_TypeOptimizer.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\GRADPROJECT\QSIT_TypeOptimizer\QSIT_TypeOptimizer\obj\Debug\QSIT_TypeOptimizer.MainForm.resources
+C:\Users\Ahmed\Desktop\GRADPROJECT\QSIT_TypeOptimizer\QSIT_TypeOptimizer\obj\Debug\QSIT_TypeOptimizer.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\GRADPROJECT\QSIT_TypeOptimizer\QSIT_TypeOptimizer\obj\Debug\QSIT_TypeOptimizer.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\GRADPROJECT\QSIT_TypeOptimizer\QSIT_TypeOptimizer\obj\Debug\QSIT_TypeOptimizer.dll
+C:\Users\Ahmed\Desktop\GRADPROJECT\QSIT_TypeOptimizer\QSIT_TypeOptimizer\obj\Debug\QSIT_TypeOptimizer.pdb
+C:\Users\Ahmed\Desktop\GRADPROJECT\QSIT_TypeOptimizer\QSIT_TypeOptimizer\obj\Debug\QSIT_TypeOptimizer.g.resources
